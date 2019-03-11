@@ -1,2 +1,9 @@
 # proyecto2
 codigo fuente del proyecto unidad 2 de metodos numericos
+
+INTEGRANTES DEL EQUIPO
+° ALVARADO GARCIA JORGE PABLO
+°GARCIA ARZAPALO LAURO MANUEL
+°NOH NOH MARCO ANTONIO
+°PEREZ UC PABLO ERNESTO
+4°B
