@@ -1,5 +1,5 @@
-# proyecto3
-codigo fuente del proyecto unidad 3 de metodos numericos
+# proyecto2
+codigo fuente del proyecto unidad 2 de metodos numericos
 
 INTEGRANTES DEL EQUIPO
 ° ALVARADO GARCIA JORGE PABLO
